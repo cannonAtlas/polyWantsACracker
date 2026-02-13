@@ -6,9 +6,11 @@ Load from environment variables or .env file.
 """
 
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # env vars work fine without dotenv
 
 # ─── Polymarket ───────────────────────────────────────────────
 POLYMARKET_HOST = "https://clob.polymarket.com"

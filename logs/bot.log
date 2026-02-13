@@ -1,0 +1,13 @@
+2026-02-13 03:44:59,618 [polly] INFO: ============================================================
+2026-02-13 03:44:59,618 [polly] INFO: 🔄 Scan cycle #1 — 03:44:59 UTC
+2026-02-13 03:44:59,618 [polly] INFO: ₿ Scanning BTC 15-min markets...
+2026-02-13 03:45:00,708 [polly] INFO:   Found 1 active BTC markets
+2026-02-13 03:45:00,709 [polly] INFO: 🌤️ Scanning weather markets...
+2026-02-13 03:45:07,864 [polly] INFO:   Found 50 active weather markets
+2026-02-13 03:45:09,051 [polly] INFO:   🌡️ Russia-Ukraine Ceasefire before GTA VI?
+2026-02-13 03:45:09,052 [polly] INFO:      Edge: +0.540 | Our: 0.950 | Market: 0.410
+2026-02-13 03:45:09,052 [polly] INFO:      ✅ SIGNAL: NO $50.00 (Kelly=0.458, edge=+0.540)
+2026-02-13 03:45:09,052 [polly] INFO:      📝 Precipitation market: Russia-Ukraine Ceasefire before GTA VI?. Forecast: max precip prob=0%, total=0.0mm. Our prob=0.950 vs market=0.410 → edge=+0.540
+2026-02-13 03:45:09,057 [polly.risk] INFO: 📈 Opened: NO on 'Russia-Ukraine Ceasefire before GTA VI?' — $50.00 @ 0.4100 (edge: 0.540)
+2026-02-13 03:45:09,057 [polly] INFO:      📄 Paper trade recorded
+2026-02-13 03:45:09,061 [polly] INFO:   📊 Portfolio: bankroll=$950.00 | open=1 | exposure=$50.00 | PnL=$+0.00 | W/L=0/0

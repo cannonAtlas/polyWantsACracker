@@ -1,0 +1,23 @@
+{
+  "bankroll": 950.0,
+  "positions": [
+    {
+      "market_id": "540816",
+      "market_question": "Russia-Ukraine Ceasefire before GTA VI?",
+      "token_id": "8501497159083948713316135768103773293754490207922884688769443031624417212426",
+      "side": "NO",
+      "entry_price": 0.41000000000000003,
+      "size_usd": 50.0,
+      "shares": 121.95121951219511,
+      "our_probability": 0.95,
+      "market_probability": 0.41000000000000003,
+      "edge": 0.5399999999999999,
+      "kelly_fraction": 0.45762711864406774,
+      "strategy": "weather",
+      "reasoning": "Precipitation market: Russia-Ukraine Ceasefire before GTA VI?. Forecast: max precip prob=0%, total=0.0mm. Our prob=0.950 vs market=0.410 \u2192 edge=+0.540",
+      "timestamp": "2026-02-13T03:45:09.052609+00:00",
+      "status": "open"
+    }
+  ],
+  "trade_history": []
+}
